@@ -19,3 +19,24 @@ Check differences
 ```console
 diff out/00.out out/test00.out
 ```
+
+## Changelog
+
+### 2023.11.27
+
+* Output text modified:
+
+  ```console
+  Before:
+  Is open/closed group(1: YES 0: NO):
+  
+  After:
+  Is open group(1: YES 0: NO):
+  ```
+
+* Test case `06` output fixed: `No points hand` removed
+* Test case `11` output fixed: `Three concealed triplets` added
+
+### 2023.11.26
+
+* Test cases added
