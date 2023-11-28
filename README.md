@@ -22,6 +22,20 @@ diff out/00.out out/test00.out
 
 ## Changelog
 
+### 2023.11.28
+
+* `Two sets of identical sequences` changed from `2 han` to `3 han`:
+
+  ```console
+  Before:
+  Two sets of identical sequences (2 Han)
+
+  After:
+  Two sets of identical sequences (3 Han)
+  ```
+
+* `No points hand` changed to `No-points hand` (dash added)
+
 ### 2023.11.27
 
 * Output text modified:
